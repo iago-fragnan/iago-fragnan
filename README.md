@@ -10,12 +10,9 @@
        DateTime Birthday = new DateTime(2006, 10, 23);
        int Age = 18;
        string[] Skills = { "Developer", "Digital Designer", "Vfx Artist", "3D Animator" };
-
-       string Job = "Desenvolvedor C# e React";
-       string JobCompany = "Duett Software";
    
        bool Student = true;
-       string Grade = "1st";
+       string Grade = "2st";
        string University = "Universidade de Araraquara";
        string Course = "Sistemas de Informação";
        DateTime Graduating = new DateTime(2028, 12, 1);
