@@ -12,7 +12,6 @@
        string[] Skills = { "Developer", "Digital Designer", "Vfx Artist", "3D Animator" };
    
        bool Student = true;
-       string Grade = "2st";
        string University = "Universidade de Araraquara";
        string Course = "Sistemas de Informação";
        DateTime Graduating = new DateTime(2028, 12, 1);
