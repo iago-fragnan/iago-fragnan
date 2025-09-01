@@ -7,7 +7,6 @@
      
      public class Information {
        string Name = "Iago Fragnan";
-       DateTime Birthday = new DateTime(2006, 10, 23);
        int Age = 18;
        string[] Skills = { "Developer", "Digital Designer", "Vfx Artist", "3D Animator" };
    
