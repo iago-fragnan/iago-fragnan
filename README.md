@@ -7,7 +7,7 @@
      
      public class Information {
        string Name = "Iago Fragnan";
-       int Age = 18;
+       int Age = 19;
        string[] Skills = { "Developer", "Digital Designer", "Vfx Artist", "3D Animator" };
    
        bool Student = true;
